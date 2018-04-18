@@ -1,0 +1,13 @@
+{
+    "name": "akshay/calculator",
+    "description": "demo calculator",
+    "authors": [
+        {
+            "name": "akshay",
+            "email": "akshayshringi77@gmail.com"
+        }
+    ],
+    "type": "composer-pgin",
+    "minimum-stability": "dev",
+    "require": {}
+}
