@@ -1,6 +1,6 @@
 #Media
 
-This package saves uploaded files and links them with models
+This package is used for calculation
 
 ## Installation
 
